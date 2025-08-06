@@ -1,2 +1,2 @@
 # Trial
-This is just a trial purpose.
+This is just for trial purpose.
